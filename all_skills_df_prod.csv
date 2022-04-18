@@ -1,0 +1,74 @@
+skill,skill_id,category,sub_category,type,is_software,is_language
+Project Management,KS1267F6MSPN366LX7ST,Business,Project Management,Specialized Skill,False,False
+Microsoft Office,KS126HY6YLTB9R7XJC4Z,Administration,Office and Productivity Software,Common Skill,True,False
+Microsoft Excel,KS1200H6XYN1CR0G5NZ0,Administration,Office and Productivity Software,Common Skill,True,False
+Management,KS1218W78FGVPVP2KXPX,Business,Business Management,Common Skill,False,False
+English,KS123K75YYK8VGH90NCS,Language,Language Competency,Common Skill,False,True
+Team Management,KS441846K903WT1RYDKJ,Business,People Management,Common Skill,False,False
+Microsoft Word,KS1200365FTR9X0M96T9,Administration,Office and Productivity Software,Common Skill,True,False
+Java,KS120076FGP5WGWYMP0F,Information Technology,Java,Specialized Skill,True,False
+Leadership,KS124JB619VXG6RQ810C,Physical and Inherent Abilities,Initiative and Leadership,Common Skill,False,False
+Engineering,,,,,,
+SQL,KS440W865GC4VRBW6LJP,Information Technology,Query Languages,Specialized Skill,True,False
+Customer Service,KS121Z26S4VJLQ1WXN21,Customer and Client Support,Basic Customer Service,Common Skill,False,False
+C (Programming Language),KS126VY71Y0SJ72FZ4H6,Analysis,Natural Language Processing (NLP),Specialized Skill,False,False
+Python (Programming Language),KS125LS6N7WP4S6SFTCK,Information Technology,Scripting Languages,Specialized Skill,True,False
+Microsoft PowerPoint,KS127ZG6DBSF76WF7VYX,Administration,Office and Productivity Software,Common Skill,True,False
+MySQL,KS126QY605N7YVHFYCTW,Information Technology,Databases,Specialized Skill,False,False
+JavaScript,KS1200771D9CR9LB4MWW,Information Technology,JavaScript and jQuery,Specialized Skill,True,False
+Communication,KS122556LMQ829GZCCRV,Physical and Inherent Abilities,Communication,Common Skill,False,False
+Negotiation,KS126X663B21NB77ZHSP,Sales,General Sales Practices,Common Skill,False,False
+PHP,KS1200C5XQWW78VQ5ZYL,Information Technology,PHP,Specialized Skill,True,False
+C++,KS1219W70LY1GXZDSKW5,Information Technology,C and C++,Specialized Skill,True,False
+Marketing,,,,,,
+Teamwork,KSKJX44T33B6D4UCC8CB,Physical and Inherent Abilities,Social Awareness,Common Skill,False,False
+MATLAB,KS1261G6FLXL70JW7G42,Analysis,Mathematical Software,Specialized Skill,True,False
+Financial Analysis,KS123Y66DNRSJ1QGK9NW,Finance,Financial Analysis,Specialized Skill,False,False
+Project Planning,KS122W26SKGLZJ2KLF5M,Business,Project Management,Specialized Skill,False,False
+Accounting,KS1203W702ND09XHKJR5,Finance,General Accounting,Specialized Skill,False,False
+Business Strategy,KS440ZZ6HJGY92HPTWCV,Business,Business Strategy,Specialized Skill,False,False
+AutoCAD,KS120S56XTF4LJ3R6Z6D,Architecture and Construction,Architectural Design,Specialized Skill,True,False
+Cascading Style Sheets (CSS),KS121F45VPV8C9W3QFYH,Information Technology,Web Design and Development,Specialized Skill,True,False
+CATIA,KS121FV6K3J4CWPD82PG,Engineering,Drafting and Engineering Design,Specialized Skill,True,False
+French,KS1243976G466GV63ZBY,Language,Language Competency,Common Skill,False,True
+Linux,KS122VT6S2JJ5C5D80NF,Information Technology,Operating Systems,Specialized Skill,True,False
+Research,KS1203C6N9B52QGB4H67,Science and Research,Research Methodology,Common Skill,False,False
+Lean Manufacturing,KS125RZ5X2MBLVC6F634,Manufacturing and Production,Lean Manufacturing,Specialized Skill,False,False
+Continuous Improvement,KS122C06Z8NDM5G6NYNT,Business,Business Analysis,Specialized Skill,False,False
+Unified Modeling Language (UML),KS441ML6ZTK71MVYGP67,Information Technology,Other Programming Languages,Specialized Skill,False,False
+Change Management,KS121T569X502KJPS0F3,Business,Business Management,Specialized Skill,False,False
+Strategic Planning,KS1219261TYVPMGX8KVQ,Business,Business Strategy,Specialized Skill,False,False
+Finance,KS123MC78KV644P5DDZ0,Finance,Financial Accounting,Specialized Skill,False,False
+Microsoft Project,KS126J46GGVZB8BGGXSY,Business,Project Management,Specialized Skill,True,False
+PL/SQL,KS127HT6PY61NVMR3PWG,Information Technology,Query Languages,Specialized Skill,True,False
+Oracle Database,KS127F36326KXDQ104H6,Information Technology,Databases,Specialized Skill,True,False
+Jakarta EE,,,,,,
+Medicine,,,,,,
+Supply Chain Management,ES72D57E1BC4BB22BBB0,"Transportation, Supply Chain, and Logistics",Supply Chain Management,Specialized Skill,False,False
+Healthcare,,,,,,
+HTML,KS1200578T5QCYT0Z98G,Information Technology,Web Design and Development,Specialized Skill,True,False
+Business Control,,,,,,
+Git,KSIWWZAII4AP33SDVZ2H,Information Technology,Version Control,Specialized Skill,True,False
+React.js,KSDJCA4E89LB98JAZ7LZ,Information Technology,JavaScript and jQuery,Specialized Skill,True,False
+Node.js,KS127296VDYS7ZFWVC46,Information Technology,JavaScript and jQuery,Specialized Skill,True,False
+Web Development,KS122Z36QK3N5097B5JH,Information Technology,Web Design and Development,Specialized Skill,False,False
+Clinical Research,KS121ZT69B93MMXHS2N8,Science and Research,Clinical Trials,Specialized Skill,False,False
+Hospitals,,,,,,
+Quality Management,KS1289C6QS0TSSB4PNGG,"Law, Regulation, and Compliance",Quality Assurance and Control,Specialized Skill,False,False
+Public Speaking,KS124JZ5VYRZ5MJ85N2B,Physical and Inherent Abilities,Communication,Common Skill,False,False
+SOLIDWORKS,KS122FM6NS52BCDZ7GWT,Engineering,Drafting and Engineering Design,Specialized Skill,True,False
+Visual Basic for Applications (VBA),KS1200C76YN33ZYXH04X,Information Technology,Scripting Languages,Specialized Skill,True,False
+R (Programming Language),KS124DQ6JX0NX9DBFDM8,Information Technology,Other Programming Languages,Specialized Skill,True,False
+Data Analysis,KS123RH5XSDNMXJPM4KR,Analysis,Data Analysis,Specialized Skill,False,False
+Social Media,KS440PV6FRJ90X0QFNLY,Marketing and Public Relations,Social Media,Common Skill,False,False
+Problem Solving,KS125F678LV2KB3Z5XW0,Physical and Inherent Abilities,Problem Solving,Common Skill,False,False
+Machine Learning,KS1261Z68KSKR1X31KS3,Information Technology,Artificial Intelligence and Machine Learning (AI/ML),Specialized Skill,False,False
+Strategy,,,,,,
+Research and Development (R&D),KS128BK6JSSHNT5QDPMX,Science and Research,Research Methodology,Specialized Skill,False,False
+Training,,,,,,
+Auditing,KS120RN6FDTS9FLCH3T0,Finance,Auditing,Specialized Skill,False,False
+Analytical Skills,ESFA9982A2A945E439CB,Science and Research,Research Methodology,Common Skill,False,False
+Chemistry,KS120LH5W508G8HMY9GG,Science and Research,Chemistry,Specialized Skill,False,False
+Chemical Engineering,KS121V277C12CV7T1YNR,Engineering,Chemical and Biomedical Engineering,Specialized Skill,False,False
+Public Health,KS1225N6R4M64Z082XLZ,Health Care,Public Health and Disease Prevention,Specialized Skill,False,False
+Cross-functional Team Leadership,ES19C4A31A5044820BA6,Business,People Management,Specialized Skill,False,False

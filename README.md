@@ -4,7 +4,7 @@ data archive for the moroccan alumni report
 ## Data schema :
 ![image](https://user-images.githubusercontent.com/56308112/163890419-134ab912-de2a-46f6-8d3c-9bfd18db82a0.png)
 
-## about the data :
+## About the data :
 - Schools_data.pkl
 
 ```python
